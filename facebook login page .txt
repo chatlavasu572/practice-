@@ -1,2 +1,2 @@
  this is facebook please login here
- login successfull
+ login successfull/forgot password
